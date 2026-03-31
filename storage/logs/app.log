@@ -1,0 +1,41 @@
+2026/03/24 14:03:10 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774332190871147400}
+2026/03/24 16:52:40 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774342360601202500}
+2026/03/24 16:57:42 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774342662349172700}
+2026/03/24 16:59:05 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774342745718842800}
+2026/03/25 11:04:27 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774407867655074100}
+2026/03/25 11:04:36 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: %vState必须是[0 1]中的一个","time":1774407876918566400}
+2026/03/25 16:14:03 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774426443611391100}
+2026/03/25 16:17:25 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774426645848173000}
+2026/03/25 16:18:47 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774426727862873900}
+2026/03/25 16:20:37 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774426837750824500}
+2026/03/26 19:19:04 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774523944456388600}
+2026/03/26 19:23:04 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774524184573915200}
+2026/03/26 19:24:38 {"callers":["D:/系统默认/apps/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774524278364735300}
+2026/03/26 19:33:37 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774524817379843000}
+2026/03/26 19:40:14 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774525214365053700}
+2026/03/26 19:40:19 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CreateTag err: %vError 1062: Duplicate entry 'Go' for key 'blog_tag.idx_name'","time":1774525219621286000}
+2026/03/26 21:48:38 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774532918918123900}
+2026/03/26 21:52:31 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774533151388011200}
+2026/03/29 20:43:14 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774788194296103500}
+2026/03/29 21:13:00 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774789980446157300}
+2026/03/29 21:13:07 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"app.BindAndValid errs: %vAppKey为必填字段,AppSecret为必填字段","time":1774789987118986200}
+2026/03/29 21:13:31 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"app.BindAndValid errs: %v","time":1774790011699429100}
+2026/03/29 21:13:56 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"app.BindAndValid errs: %vAppKey为必填字段,AppSecret为必填字段","time":1774790036085690600}
+2026/03/29 21:14:16 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790056281496600}
+2026/03/29 21:15:48 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"app.BindAndValid errs: %vAppKey为必填字段,AppSecret为必填字段","time":1774790148713953700}
+2026/03/29 21:16:19 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790179917428000}
+2026/03/29 21:21:36 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790496946291200}
+2026/03/29 21:22:40 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790560086665600}
+2026/03/29 21:22:48 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790568107071600}
+2026/03/29 21:25:15 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774790715633935300}
+2026/03/29 21:25:24 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790724227231000}
+2026/03/29 21:27:52 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790872152102100}
+2026/03/29 21:27:53 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790873400750500}
+2026/03/29 21:28:04 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774790884689598000}
+2026/03/29 21:28:35 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774790915366126300}
+2026/03/29 21:30:00 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774791000365806000}
+2026/03/29 21:31:28 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"error","message":"svc.CheckAuth err: %vError 1054: Unknown column 'is_del' in 'where clause'","time":1774791088833557500}
+2026/03/29 21:32:20 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774791140386662000}
+2026/03/31 12:36:53 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774931813448777000}
+2026/03/31 12:38:45 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774931925258578600}
+2026/03/31 15:15:18 {"callers":["D:/系统默认/apps/blog-service/main.go: 22 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1774941318811048300}
